@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+src/paraSummary/__init__.py
+src/paraSummary.egg-info/PKG-INFO
+src/paraSummary.egg-info/SOURCES.txt
+src/paraSummary.egg-info/dependency_links.txt
+src/paraSummary.egg-info/top_level.txt
+src/paraSummary/components/__init__.py
+src/paraSummary/config/__init__.py
+src/paraSummary/config/configuration.py
+src/paraSummary/constants/__init__.py
+src/paraSummary/entity/__init__.py
+src/paraSummary/logging/__init__.py
+src/paraSummary/pipeline/__init__.py
+src/paraSummary/utils/__init__.py
+src/paraSummary/utils/common.py
